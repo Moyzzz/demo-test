@@ -5,5 +5,8 @@ hello guigu
 hello guigu
 hello guigu
 hello guigu
-hello guigu
+<<<<<<< HEAD
 hello guigu master
+=======
+hello guigu hot-fix
+>>>>>>> hot-fix
