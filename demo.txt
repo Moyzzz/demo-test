@@ -7,3 +7,5 @@ hello guigu
 hello guigu
 hello guigu
 hello guigu
+
+ssh免密push
